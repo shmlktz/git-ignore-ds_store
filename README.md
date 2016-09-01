@@ -5,5 +5,7 @@ $ vi ~/.gitignore
 ##2. Add the following to the file (Optionally, add more files of your own need)
 .DS_Store
 
-##3. Hit Esc, type :wq and hit enter.
-It's done! :)
+##3. Save the changes
+Save the changes by hitting Esc, type :wq and hit enter.
+
+Now enjoy! :)
