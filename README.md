@@ -1,4 +1,4 @@
-# How to Make Git Ignore .DS_Store
+# How to Make Git Ignore .DS_Store Globally
 ##1. Run the following shell command to open ~/.gitignore using vi:
 $ vi ~/.gitignore
 
