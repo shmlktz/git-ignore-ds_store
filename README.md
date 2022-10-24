@@ -4,7 +4,7 @@
 vi ~/.gitignore
 ```
 
-## 2. Add the files git should ignore
+## 2. Add the files that git should ignore
 ### 2.1. Hit the i key on your keyboard to write to the file
 ### 2.2. Add the .DS_Store file on a new line on the bottom of the file
 ```
